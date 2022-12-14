@@ -690,7 +690,7 @@ async def auto_filter(client, msg, spoll=False):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="⛑𝗛ᴏᴡ 𝗧ᴏ 𝗗ᴏᴡɴʟᴏᴀᴅ⛑", url='https://t.me/AMD_Discussion/7428')
+            InlineKeyboardButton(text="⛑𝗛ᴏᴡ 𝗧ᴏ 𝗗ᴏᴡɴʟᴏᴀᴅ⛑", url='https://t.me/AMD_Discussion/7514')
         ]
     )
 
