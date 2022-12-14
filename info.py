@@ -79,7 +79,7 @@ if SELF_DELETE == "True":
 
     # Download Tutorial Button #
 DOWNLOAD_TEXT_NAME = "⛑𝗛ᴏᴡ 𝗧ᴏ 𝗗ᴏᴡɴʟᴏᴀᴅ⛑"
-DOWNLOAD_TEXT_URL = "https://t.me/AMD_Discussion/7428"
+DOWNLOAD_TEXT_URL = "https://t.me/AMD_Discussion/7514"
 
    # Custom Caption Under Button #
 CAPTION_BUTTON = "♻️ 𝗝ᴏɪɴ 𝗡ᴏᴡ ♻️"
